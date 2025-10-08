@@ -1,0 +1,21 @@
+hostname Switch2
+no ip domain-lookup
+
+vlan 10
+name PC-VLAN 
+
+vlan 20
+name WIFI-VLAN
+
+interface GigabitEthernet0/1 
+description Uplink to Router2
+switchport mode trunk
+switchport nonegotiate 
+
+interface FastEthernet0/1 
+description PC2 Connection
+Switchport mode access
+Switchport access vlan 10
+
+end end
+write memory 
