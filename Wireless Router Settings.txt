@@ -1,0 +1,13 @@
+
+On the WRTS3OON device (through the GUI):
+
+Connect Ethernet1 to Switch1 Fa0/2.
+Set Static IP: 192.168.20.10
+Subnet Mask: 255.255.255.0 
+Gateway: 192.168.20.254 
+DHCP Server: Disable
+SSID: OfficeWiFi
+WPA2-PSK
+Passphrase: office123
+
+
