@@ -70,7 +70,8 @@ Each component was tested using Packet Tracer CLI tools and device prompts:
 
 
 # Project Documentation
-- [Configurations (Switches & Routers (PDFs](configs) 
+- [Configurations (Switches & Routers (PDFs](configs)
+- [Configurations (Switches & Routers (PDFs)](configs) 
 - [Walkthrough Video(Youtube)](https://www.youtube.com/watch?v=hxoq7zfcVPU)
 - [Command Line Outputs](CLI Outputs)
 
