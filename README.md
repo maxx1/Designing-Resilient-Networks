@@ -72,8 +72,6 @@ Each component was tested using Packet Tracer CLI tools and device prompts:
 # Project Documentation
 - [Configurations (Switches & Routers (PDFs)](configs) 
 - [Walkthrough Video(Youtube)](https://www.youtube.com/watch?v=hxoq7zfcVPU)
-- [Executive Summary](Designing-Resilient-Networks/Executive Summary
-/Designing Resilient Networks_A Lab in High Availability Routing and Wireless Integration_Deployment Reference.pdf)
 
 # Let's Connect
 Created by JD Wright  
