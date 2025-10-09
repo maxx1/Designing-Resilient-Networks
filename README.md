@@ -71,7 +71,8 @@ Each component was tested using Packet Tracer CLI tools and device prompts:
 
 # Project Documentation
 - [Configurations (Switches & Routers (PDFs](configs)
-- [Commnad Line Outputs(SHow Command PDFs)](CLI Outputs)
+- [Commnad Line Outputs](Designing-Resilient-Networks
+/CLI Outputs/)
 - [CLI Outputs (Show Commands)](CLI Outputs)
 - [Executive Summary (PDF)]((Executive Summary/Designing Resilient Networks_A Lab in High Availability Routing and Wireless Integration_Deployment Reference.pdf))  
 - [Walkthrough Video(Youtube)](https://www.youtube.com/watch?v=hxoq7zfcVPU)
