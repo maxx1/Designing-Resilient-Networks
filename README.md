@@ -72,8 +72,7 @@ Each component was tested using Packet Tracer CLI tools and device prompts:
 # Project Documentation
 - [Configurations (Switches & Routers (PDFs](configs) 
 - [Walkthrough Video(Youtube)](https://www.youtube.com/watch?v=hxoq7zfcVPU)
-- [Command Line Outputs](Designing-Resilient-Networks
-/CLI Outputs/)
+- [Command Line Outputs](/CLI Outputs/)
 
 # Let's Connect
 Created by JD Wright  
