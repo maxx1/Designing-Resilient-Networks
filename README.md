@@ -23,7 +23,7 @@ This includes everything from protocol configuration to failure simulation and m
 
 
 # Topology Diagram
-[Topology Diagrams (PDF)](Diagrams/Topology Diagram.pdf)
+[Topology Diagrams (PDF)](Diagrams/Topology%20Diagram.pdf)
 
 
 # Repository Structure
